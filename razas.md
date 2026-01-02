@@ -35,7 +35,7 @@
   <a href="#"><li>Humano</li></a>
   <a href="#"><li>Kalashtar</li></a>
   <a href="#"><li>Kender</li></a>
-  <a href="#"><li>Kenku</li></a>
+  <a href="https://github.com/Erebothh/Calabozos-y-Dragones/blob/razas/Kenku.md"><li>Kenku</li></a>
   <a href="#"><li>Khoravar</li></a>
   <a href="#"><li>Kithkin</li></a>
   <a href="#"><li>Koblod</li></a>
