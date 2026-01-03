@@ -6,7 +6,7 @@
 ***Puntuaciones de habilidades:*** Elige una de las siguientes opciones: Destreza +2; Sabiduría +1<br/>
 ***Tipo de criatura:*** Humanoide.<br/>
 ***Tamaño:*** Mediano. Los kenku miden alrededor de 1,5 metros de altura y pesan entre 40 y 54 kilos.<br/>
-***Velocidad:*** 30 pies.<br/>
+***Velocidad:*** 25 pies, Vuelo 50 pies.<br/>
 ***Edad:*** Los kenku tienen una esperanza de vida más corta que los humanos. Alcanzan la madurez alrededor de los 12 años y pueden vivir hasta los 60.<br/>
 Puedes tirar los dados para determinar la estatura y el peso de tu personaje en la tabla de estatura y peso aleatorios. La tirada en la columna «Modificador de estatura» añade un número (en pulgadas) a la estatura base del personaje. Para obtener el peso, multiplica el número que hayas obtenido en la tirada de estatura por la tirada en la columna «Modificador de peso» y suma el resultado (en libras) al peso base.
 # Características
