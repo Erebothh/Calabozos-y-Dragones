@@ -13,3 +13,7 @@ Además, cuando realizas una prueba de habilidad utilizando cualquier habilidad 
 ***Mimetismo:*** Puedes imitar con precisión los sonidos que has oído, incluidas las voces. Una criatura que oiga los sonidos que emites solo podrá darse cuenta de que se trata de imitaciones si supera una prueba de Sabiduría (Perspicacia) con una CD de 8 + tu bonificación de competencia + tu modificador de Carisma.<br/>
 ***Idiomas:*** Puedes hablar, leer y escribir el idioma común y otro idioma que tú y tu DM consideren apropiado para tu personaje.<br/>
 ***Recuros:*** MPMM, page 24.
+
+# Historia
+Los Kenku, un pueblo alado parecido a los cuervos, están dotados de una aguda capacidad de observación y una memoria sobrenaturalmente precisa. Sin embargo, ninguno de ellos recuerda el origen del primer kenku, y a menudo bromean diciendo que hay tantas historias sobre el origen de los kenku como kenku existen. Algunos describen su génesis como una maldición, ya que son un pueblo de aves no voladoras condenadas a imitar las creaciones de otros. Otros kenku recitan poemas crípticos pero hermosos sobre su llegada como un acontecimiento bendito en el que fueron enviados al multiverso para observar y catalogar sus muchas maravillas.
+Sea cual sea su verdadero origen, los kenku se encuentran con mayor frecuencia en Shadowfell y en el plano material, y suelen tener la coloración típica de los cuervos.
