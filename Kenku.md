@@ -2,10 +2,12 @@
 <img width="300" height="auto" alt="image" src="https://github.com/user-attachments/assets/9c8f3f78-1d01-4c44-8123-37142681c3f6" />
 
 # Info
-***Puntuaciones de habilidades:*** Elige una de las siguientes opciones: (a) Elige cualquier +2; Elige cualquier otro +1 (b) Elige tres +1 diferentes.<br/>
+***Puntuaciones de habilidades:*** Elige una de las siguientes opciones: Destreza +2; Sabiduría +1<br/>
 ***Tipo de criatura:*** Humanoide.<br/>
-***Tamaño:*** Pequeño o Medio.<br/>
+***Tamaño:*** Mediano. Los kenku miden alrededor de 1,5 metros de altura y pesan entre 40 y 54 kilos.<br/>
 ***Velocidad:*** 30 pies.<br/>
+***Edad:*** Los kenku tienen una esperanza de vida más corta que los humanos. Alcanzan la madurez alrededor de los 12 años y pueden vivir hasta los 60.<br/>
+Puedes tirar los dados para determinar la estatura y el peso de tu personaje en la tabla de estatura y peso aleatorios. La tirada en la columna «Modificador de estatura» añade un número (en pulgadas) a la estatura base del personaje. Para obtener el peso, multiplica el número que hayas obtenido en la tirada de estatura por la tirada en la columna «Modificador de peso» y suma el resultado (en libras) al peso base.
 # Características
 ***Duplicación Experta:*** Cuando copias escritos o artesanias creadas por ti mismo o por alguien más, tienes ventaja en cualquier prueba de habilidad que realices para producir una réplica exacta.<br/>
 ***Recuerdo Kenku:*** Gracias a tu memoria sobrenaturalmente buena, tienes competencia en dos habilidades de tu elección.
@@ -16,4 +18,7 @@ Además, cuando realizas una prueba de habilidad utilizando cualquier habilidad 
 
 # Historia
 Los Kenku, un pueblo alado parecido a los cuervos, están dotados de una aguda capacidad de observación y una memoria sobrenaturalmente precisa. Sin embargo, ninguno de ellos recuerda el origen del primer kenku, y a menudo bromean diciendo que hay tantas historias sobre el origen de los kenku como kenku existen. Algunos describen su génesis como una maldición, ya que son un pueblo de aves no voladoras condenadas a imitar las creaciones de otros. Otros kenku recitan poemas crípticos pero hermosos sobre su llegada como un acontecimiento bendito en el que fueron enviados al multiverso para observar y catalogar sus muchas maravillas.
-Sea cual sea su verdadero origen, los kenku se encuentran con mayor frecuencia en Shadowfell y en el plano material, y suelen tener la coloración típica de los cuervos.
+Sea cual sea su verdadero origen, los kenku se encuentran con mayor frecuencia en Shadowfell y en el plano material, y suelen tener la coloración típica de los cuervos.<br/>
+
+
+
