@@ -1,6 +1,6 @@
 # RAZAS
 <ul>
-  <a href="#"><li>Aarakocra</li></a>
+  <a href="https://github.com/Erebothh/Calabozos-y-Dragones/blob/razas/Aarakocra.md"><li>Aarakocra</li></a>
   <a href="#"><li>Aasimar</li></a>
   <a href="#"><li>Elfo Astral</li></a>
   <a href="#"><li>AutoGnome</li></a>
