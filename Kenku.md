@@ -44,20 +44,11 @@ Los kenku aventureros, a pesar de su relativa independencia, siguen teniendo ten
 
 
 
-Interpretar a un kenku
+# Interpretar a un kenku
 
 > Si interpretas a un kenku, los constantes intentos de imitar ruidos pueden resultar confusos o irritantes en lugar de entretenidos. Puedes describir fácilmente los sonidos que hace tu personaje y lo que significan. Sé claro sobre las intenciones de tu personaje, a menos que tu objetivo sea deliberadamente ser inescrutable o misterioso.
-
-
-
 Podrías decir: «Snapper hace el ruido de un martillo golpeando lenta y rítmicamente una piedra para mostrar lo aburrido que está. Juega con su daga y estudia al agente de la Alianza de los Señores sentado en la barra». Crear un vocabulario de ruidos para que los demás jugadores lo descifren puede parecer divertido, pero puede distraer y ralentizar el juego.
-
-
-
 Nombres kenku. Dado que los kenku pueden duplicar cualquier sonido, sus nombres provienen de una asombrosa variedad de ruidos y frases. Los nombres kenku tienden a dividirse en tres categorías que no distinguen entre nombres masculinos y femeninos.
-
-
-
 Los matones, guerreros y rufianes kenku adoptan ruidos producidos por armas, como el sonido metálico de una maza contra una armadura o el sonido de un hueso rompiéndose. Los que no son kenku se refieren a ellos describiendo este ruido. Ejemplos de este tipo de nombres son Smasher, Clanger, Slicer y Basher.
 
 
