@@ -9,6 +9,7 @@
 ***Velocidad:*** 25 pies, Vuelo 50 pies.<br/>
 ***Edad:*** Aarakocra alcanza la madurez a los 3 años. En comparación con los humanos, los aarakocras no suelen vivir más de 30 años.<br/>
 ***Alineación:*** La mayoría de los aarakocra son buenos y rara vez eligen lados cuando se trata de la ley y el caos. Los líderes tribales y los guerreros pueden ser legales, mientras que los exploradores y los aventureros pueden tender a ser caóticos.<br/>
+<br/>
 Puedes tirar los dados para determinar la estatura y el peso de tu personaje en la tabla de estatura y peso aleatorios. La tirada en la columna «Modificador de estatura» añade un número (en pulgadas) a la estatura base del personaje. Para obtener el peso, multiplica el número que hayas obtenido en la tirada de estatura por la tirada en la columna «Modificador de peso» y suma el resultado (en libras) al peso base.
 # Características
 ***Duplicación Experta:*** Cuando copias escritos o artesanias creadas por ti mismo o por alguien más, tienes ventaja en cualquier prueba de habilidad que realices para producir una réplica exacta.<br/>
