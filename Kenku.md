@@ -26,10 +26,43 @@ Por desgracia para los kenku, su amo descubrió su plan antes de que pudieran ll
 Desde entonces, los kenku han vagado por el mundo. Se establecen en lugares que los aceptan, normalmente ciudades sombrías que han caído en desgracia y están plagadas de delincuencia. 
 
 
-Sueños de volar. Por encima de todo, los kenku desean recuperar su capacidad de volar. Todos los kenku nacen con el deseo de elevarse por los aires, y los que aprenden a lanzar hechizos lo hacen con la esperanza de dominar aquellos que les permitan volar. Los rumores sobre objetos mágicos como alfombras voladoras, escobas capaces de volar y objetos similares provocan en los kenku un gran deseo de adquirir dichos objetos para sí mismos.
+***Sueños de volar.*** Por encima de todo, los kenku desean recuperar su capacidad de volar. Todos los kenku nacen con el deseo de elevarse por los aires, y los que aprenden a lanzar hechizos lo hacen con la esperanza de dominar aquellos que les permitan volar. Los rumores sobre objetos mágicos como alfombras voladoras, escobas capaces de volar y objetos similares provocan en los kenku un gran deseo de adquirir dichos objetos para sí mismos.
 A pesar de carecer de alas, a los kenku les encanta vivir en torres y otras estructuras altas. Buscan ruinas que alcancen el cielo, aunque carecen de la motivación y la creatividad necesarias para repararlas o fortificarlas. Aun así, su peso ligero y su tamaño les permiten vivir en estructuras destartaladas que se derrumbarían bajo el peso de un humano o un orco.
 Algunos gremios de ladrones utilizan a los kenku como vigías y mensajeros. Los kenku habitan en los edificios y torres más altos que controla el gremio, lo que les permite acechar en los niveles más altos y vigilar la ciudad desde arriba.
 Plagiaristas sin remedio. Como resultado de su falta de creatividad, los kenku funcionan cómodamente como secuaces de un amo poderoso. Los líderes de la bandada imponen disciplina y minimizan los conflictos, pero fracasan a la hora de planificar eficazmente o elaborar planes a largo plazo.
+
+Aunque no pueden hablar con su propia voz, los kenku pueden imitar perfectamente cualquier sonido que oigan, desde la voz de un semielfo hasta el ruido de las rocas al rodar por una ladera. Sin embargo, los kenku no pueden crear nuevos sonidos y solo pueden comunicarse utilizando sonidos que hayan oído. La mayoría de los kenku utilizan una combinación de frases escuchadas y efectos de sonido para transmitir sus ideas y pensamientos.
+Del mismo modo, los kenku no tienen la capacidad de inventar nuevas ideas o crear cosas nuevas. Los kenku pueden copiar objetos existentes con una habilidad excepcional, lo que les permite convertirse en excelentes artesanos y escribas. Pueden copiar libros, hacer réplicas de objetos y prosperar en situaciones en las que pueden producir grandes cantidades de objetos idénticos. Pocos kenku encuentran satisfactorio este trabajo, ya que su búsqueda de la libertad de volar les hace poco aptos para establecerse en una rutina.
+
+***Esbirros ideales.*** Los kenku se reúnen en grupos llamados bandadas. Una bandada está liderada por el kenku más viejo y experimentado, con el mayor acervo de conocimientos al que recurrir, a menudo llamado Maestro.
+Aunque los kenku no pueden crear cosas nuevas, tienen talento para aprender y memorizar detalles. Por lo tanto, los kenku ambiciosos pueden destacar como excelentes espías y exploradores. Un kenku que aprende planes y estrategias ingeniosas ideadas por otras criaturas puede ponerlas en práctica. Los kenku carecen del talento para improvisar o alterar un plan, pero un maestro sabio pone en marcha varios planes a la vez, confiando en que sus subordinados seguirán las órdenes al pie de la letra.
+Por esta razón, muchos kenku se ganan la vida fácilmente sirviendo como mensajeros, espías y vigías para gremios de ladrones, bandidos y otros cárteles criminales. Una red de kenku puede transmitir un canto de pájaro o un ruido similar por toda la ciudad, alertando a sus aliados de la llegada de una patrulla de guardias o señalando una oportunidad ideal para un robo.
+Dado que los kenku pueden reproducir con precisión cualquier sonido, los mensajes que transmiten rara vez sufren degradaciones o cambios de significado. Los mensajeros humanos pueden cambiar palabras o frases y distorsionar un mensaje sin darse cuenta, pero los kenku producen copias perfectas de todo lo que oyen.
+
+***Kenku Aventureros*** Los aventureros kenku suelen ser los supervivientes de una bandada que ha sufrido grandes pérdidas, o un kenku excepcional que se ha cansado de la vida delictiva. Estos kenku son más ambiciosos y atrevidos que sus compañeros. Otros se lanzan por su cuenta en busca de los secretos del vuelo, para dominar la magia o para descubrir el secreto de su maldición y encontrar un método para romperla.
+Los kenku aventureros, a pesar de su relativa independencia, siguen teniendo tendencia a buscar un compañero al que emular y seguir. A los kenku les encanta imitar la voz y las palabras de su compañero elegido.
+
+
+
+Interpretar a un kenku
+
+> Si interpretas a un kenku, los constantes intentos de imitar ruidos pueden resultar confusos o irritantes en lugar de entretenidos. Puedes describir fácilmente los sonidos que hace tu personaje y lo que significan. Sé claro sobre las intenciones de tu personaje, a menos que tu objetivo sea deliberadamente ser inescrutable o misterioso.
+
+
+
+Podrías decir: «Snapper hace el ruido de un martillo golpeando lenta y rítmicamente una piedra para mostrar lo aburrido que está. Juega con su daga y estudia al agente de la Alianza de los Señores sentado en la barra». Crear un vocabulario de ruidos para que los demás jugadores lo descifren puede parecer divertido, pero puede distraer y ralentizar el juego.
+
+
+
+Nombres kenku. Dado que los kenku pueden duplicar cualquier sonido, sus nombres provienen de una asombrosa variedad de ruidos y frases. Los nombres kenku tienden a dividirse en tres categorías que no distinguen entre nombres masculinos y femeninos.
+
+
+
+Los matones, guerreros y rufianes kenku adoptan ruidos producidos por armas, como el sonido metálico de una maza contra una armadura o el sonido de un hueso rompiéndose. Los que no son kenku se refieren a ellos describiendo este ruido. Ejemplos de este tipo de nombres son Smasher, Clanger, Slicer y Basher.
+
+
+
+
 
 
 
