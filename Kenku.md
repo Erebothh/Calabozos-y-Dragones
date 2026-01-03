@@ -10,3 +10,6 @@
 ***Duplicación Experta:*** Cuando copias escritos o artesanias creadas por ti mismo o por alguien más, tienes ventaja en cualquier prueba de habilidad que realices para producir una réplica exacta.<br/>
 ***Recuerdo Kenku:*** Gracias a tu memoria sobrenaturalmente buena, tienes competencia en dos habilidades de tu elección.
 Además, cuando realizas una prueba de habilidad utilizando cualquier habilidad en la que tengas competencia, puedes darte ventaja en la prueba antes de tirar el d20. Puedes darte ventaja de esta manera un número de veces igual a tu bonificación de competencia, y recuperas todos los usos gastados cuando terminas un descanso largo.<br/>
+***Mimetismo:*** Puedes imitar con precisión los sonidos que has oído, incluidas las voces. Una criatura que oiga los sonidos que emites solo podrá darse cuenta de que se trata de imitaciones si supera una prueba de Sabiduría (Perspicacia) con una CD de 8 + tu bonificación de competencia + tu modificador de Carisma.<br/>
+***Idiomas:*** Puedes hablar, leer y escribir el idioma común y otro idioma que tú y tu DM consideren apropiado para tu personaje.<br/>
+***Recuros:*** MPMM, page 24.
