@@ -3,7 +3,7 @@
 <img width="300" height="auto" alt="imagen" src="https://github.com/user-attachments/assets/026253e4-34db-4d12-a923-171ed1b828d5" />
 
 # Info
-***Puntuaciones de habilidades:*** Elige una de las siguientes opciones: Destreza +2; Sabiduría +1<br/>
+***Puntuaciones de habilidades:*** Destreza +2; Sabiduría +1<br/>
 ***Tipo de criatura:*** Humanoide.<br/>
 ***Tamaño:*** Mediano. Los kenku miden alrededor de 1,5 metros de altura y pesan entre 40 y 54 kilos.<br/>
 ***Velocidad:*** 25 pies, Vuelo 50 pies.<br/>
