@@ -49,7 +49,9 @@ Los kenku aventureros, a pesar de su relativa independencia, siguen teniendo ten
 ***Nombres kenku:*** Dado que los kenku pueden duplicar cualquier sonido, sus nombres provienen de una asombrosa variedad de ruidos y frases. Los nombres kenku tienden a dividirse en tres categorías que no distinguen entre nombres masculinos y femeninos.<br/>
 Los matones, guerreros y rufianes kenku adoptan ruidos producidos por armas, como el sonido metálico de una maza contra una armadura o el sonido de un hueso rompiéndose. Los que no son kenku se refieren a ellos describiendo este ruido. Ejemplos de este tipo de nombres son Smasher, Clanger, Slicer y Basher.
 
-
+<br/>
+Los ladrones, estafadores y rateros kenku adoptan sonidos de animales, normalmente aquellos comunes en entornos urbanos. De esta manera, los kenku pueden llamarse entre sí mientras que quienes los oyen los confunden con animales comunes. Los que no son kenku utilizan nombres que hacen referencia al sonido que emite o al animal que imita un kenku, como Rat Scratch, Whistler, Mouser y Growler.<br/>
+Algunos kenku dan la espalda al crimen para dedicarse a oficios legítimos. Estos kenku adoptan ruidos que forman parte de su oficio. Un marinero imita el sonido de una vela ondeando, mientras que un herrero imita el sonido del martillo sobre el metal. Los que no son kenku describen a estas personas por los sonidos de su oficio, como «Chasquido de vela», «Martillero» y «Cortador».<br/>
 
 
 
