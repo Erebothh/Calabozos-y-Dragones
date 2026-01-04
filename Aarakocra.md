@@ -45,7 +45,7 @@ Una colonia típica consiste en un nido grande de techo abierto hecho de enredad
 
 # Interpretar a un Aarakocra
 > [!Note]
-> ***Aarakocra en los reinos olvidados***<br/>
+> ***Aarakocra en los reinos olvidados***<br/><br/>
 Nunca bien establecido en Faerûn, los aarakocra tienen solo cuatro colonias principales: en los Montes Estelares dentro del Bosque Alto, en los Cuernos de la Tormenta en Cormyr, en las Montañas Cloven en el Alcance del Vilhon, y en los Culpos Brujos en Chult.<br/>
 Esas colonias establecidas en los Montes Estelares, más cercanos al Valle de Dessarin, fueron siempre una persona secreta y vigilada, solo vista durante sus vuelos sobre el Bosque Alto. Un cruel y rapaz dragón verde casi aniquiló a la población y dispersó a los sobrevivientes. Estos aarakocra y sus descendientes han jurado venganza contra el dragón y se puede ver recorriendo las tierras del norte y Cormyr en busca de signos de su enemigo.<br/>
 Su único asentamiento restante se encuentra en las laderas de las montañas más meridionales de los Montes Estelares. En las cabeceras de la Carrera de Unicornio, la Última Aerie es el hogar de varias docenas de aarakocra. Recientemente, los ancianos de aarakocra detectaron cambios en los vientos predominantes que consideraban un mal presagio.<br/>
