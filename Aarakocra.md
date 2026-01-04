@@ -15,7 +15,7 @@ Puedes tirar los dados para determinar la estatura y el peso de tu personaje en 
 ***Vuelo:*** Tienes una velocidad de vuelo de 50 pies. Para usar esta velocidad, no puedes usar armadura mediana o pesada.<br/>
 ***Garras:*** Tus garras son armas naturales, que puedes usar para hacer golpes desarmados. Si golpeas con ellos, infliges un daño de corte igual a 1d4 + tu modificador de fuerza, en lugar del daño de golpeo normal para un golpe desarmado.<br/>
 ***El lenguaje:*** Puedes hablar, leer y escribir Common, Aarakocra y Auran.<br/>
-***Recuros:*** MPMM, page 24.
+***Recuros:*** EEPC, página 5. Reimpreso como Aarakocra en MPMM. También se encuentra en EGW, página 165.
 
 # Historia
 Recluidos en altas montañas, subidos encima de grandes árboles, los aarakocras, a veces llamados hombres pájaro, evocan miedo y admiración. Muchos aarakocra no son nativos del Plano Material. Proceden de un mundo más allá de las infinitas vistas del Plano Elemental del Aire. Son inmigrantes, refugiados, exploradores y rastreadores, sus puestos de vigilancia funcionando como sus apoyos en un mundo extraño y ajeno.
