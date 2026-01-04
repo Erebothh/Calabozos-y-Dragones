@@ -61,15 +61,11 @@ En segundo lugar, los aarakocra son enemigos jurados de la tierra elemental, en 
 
 > [!Note]
 >  Aarakocra Nombres
-***Aarakocra Nombres.*** Al igual que con gran parte de su discurso, los nombres de aarakocra incluyen clics, trinos y silbatos hasta el punto de que otros pueblos tienen dificultades para pronunciarlos. Por lo general, un nombre tiene de dos a cuatro sílabas con los sonidos que actúan como conectores. Al interactuar con otras razas, los aarakocra pueden usar apodos adquiridos de personas que conocen o formas acortadas de sus nombres completos.
-
+***Aarakocra Nombres.*** Al igual que con gran parte de su discurso, los nombres de aarakocra incluyen clics, trinos y silbatos hasta el punto de que otros pueblos tienen dificultades para pronunciarlos. Por lo general, un nombre tiene de dos a cuatro sílabas con los sonidos que actúan como conectores. Al interactuar con otras razas, los aarakocra pueden usar apodos adquiridos de personas que conocen o formas acortadas de sus nombres completos.<br/>
 Un aarakocra de cualquier género puede tener uno de estos nombres cortos: ***Aera, Aial, Aur, Deekek, Errk, Heek, Ikki, Kleeck, Oorr, Ouss, Quaf, Quierk, Salleek, Urreek o Zeed.***
 
-<br/>
-Los ladrones, estafadores y rateros kenku adoptan sonidos de animales, normalmente aquellos comunes en entornos urbanos. De esta manera, los kenku pueden llamarse entre sí mientras que quienes los oyen los confunden con animales comunes. Los que no son kenku utilizan nombres que hacen referencia al sonido que emite o al animal que imita un kenku, como Rat Scratch, Whistler, Mouser y Growler.<br/>
-Algunos kenku dan la espalda al crimen para dedicarse a oficios legítimos. Estos kenku adoptan ruidos que forman parte de su oficio. Un marinero imita el sonido de una vela ondeando, mientras que un herrero imita el sonido del martillo sobre el metal. Los que no son kenku describen a estas personas por los sonidos de su oficio, como «Chasquido de vela», «Martillero» y «Cortador».<br/>
 
-> [!Note]
+> [!TIP]
 > Aarakocra Trasfondo
 Los trasfondos o backgrounds que son más apropiados para aarakocra incluyen ***el outlander, el ermitaño y el sabio.***<br/>
 Las pequeñas colonias de aarakocra son insulares y remotas, y pocos aarakocras viven lejos de sus gallinas. En los Montes Estelares del Bosque Alto en los Reinos Olvidados, no más de unas pocas docenas de aarakocra viven lejos de los nidos de sus familias. Los que lo hacen suelen ser guardabosques o combatientes, patrullando constantemente por amenazas externas.
