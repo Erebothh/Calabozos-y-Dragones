@@ -12,11 +12,9 @@
 <br/>
 Puedes tirar los dados para determinar la estatura y el peso de tu personaje en la tabla de estatura y peso aleatorios. La tirada en la columna «Modificador de estatura» añade un número (en pulgadas) a la estatura base del personaje. Para obtener el peso, multiplica el número que hayas obtenido en la tirada de estatura por la tirada en la columna «Modificador de peso» y suma el resultado (en libras) al peso base.
 # Características
-***Duplicación Experta:*** Cuando copias escritos o artesanias creadas por ti mismo o por alguien más, tienes ventaja en cualquier prueba de habilidad que realices para producir una réplica exacta.<br/>
-***Recuerdo Kenku:*** Gracias a tu memoria sobrenaturalmente buena, tienes competencia en dos habilidades de tu elección.
-Además, cuando realizas una prueba de habilidad utilizando cualquier habilidad en la que tengas competencia, puedes darte ventaja en la prueba antes de tirar el d20. Puedes darte ventaja de esta manera un número de veces igual a tu bonificación de competencia, y recuperas todos los usos gastados cuando terminas un descanso largo.<br/>
-***Mimetismo:*** Puedes imitar con precisión los sonidos que has oído, incluidas las voces. Una criatura que oiga los sonidos que emites solo podrá darse cuenta de que se trata de imitaciones si supera una prueba de Sabiduría (Perspicacia) con una CD de 8 + tu bonificación de competencia + tu modificador de Carisma.<br/>
-***Idiomas:*** Puedes hablar, leer y escribir el idioma común y otro idioma que tú y tu DM consideren apropiado para tu personaje.<br/>
+***Vuelo:*** Tienes una velocidad de vuelo de 50 pies. Para usar esta velocidad, no puedes usar armadura mediana o pesada.<br/>
+***Talons:*** Tus garras son armas naturales, que puedes usar para hacer golpes desarmados. Si golpeas con ellos, infliges un daño de corte igual a 1d4 + tu modificador de fuerza, en lugar del daño de golpeo normal para un golpe desarmado.
+
 ***Recuros:*** MPMM, page 24.
 
 # Historia
@@ -46,7 +44,7 @@ Dado que los kenku pueden reproducir con precisión cualquier sonido, los mensaj
 Los kenku aventureros, a pesar de su relativa independencia, siguen teniendo tendencia a buscar un compañero al que emular y seguir. A los kenku les encanta imitar la voz y las palabras de su compañero elegido.
 
 # Interpretar a un kenku
-
+> [!TIP]
 > Si interpretas a un kenku, los constantes intentos de imitar ruidos pueden resultar confusos o irritantes en lugar de entretenidos. Puedes describir fácilmente los sonidos que hace tu personaje y lo que significan. Sé claro sobre las intenciones de tu personaje, a menos que tu objetivo sea deliberadamente ser inescrutable o misterioso.<br/>
 ***Podrías decir:*** «Snapper hace el ruido de un martillo golpeando lenta y rítmicamente una piedra para mostrar lo aburrido que está. Juega con su daga y estudia al agente de la Alianza de los Señores sentado en la barra». Crear un vocabulario de ruidos para que los demás jugadores lo descifren puede parecer divertido, pero puede distraer y ralentizar el juego.<br/>
 ***Nombres kenku:*** Dado que los kenku pueden duplicar cualquier sonido, sus nombres provienen de una asombrosa variedad de ruidos y frases. Los nombres kenku tienden a dividirse en tres categorías que no distinguen entre nombres masculinos y femeninos.<br/>
